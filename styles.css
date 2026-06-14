@@ -84,15 +84,29 @@ details[open] summary::before {
 .country-link {
     font-family: Bungee;
     border: 7px solid black;
-    text-align: center;
-    display: inline-block;
+    text-decoration: none;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    font-size: clamp(12px, 2vw, 24px);
+    padding: 10px 0;
 }
+
 .bob {
     font-family: Outfit;
     font-size: large;
     font-weight: bold;
     line-height: 1.75;
 }
+.continent-links {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    gap: 10px;
+}
+
 
 
 
