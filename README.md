@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://i.imgur.com/8xgZk2H.png" width="80%">
+  <img src="https://i.imgur.com/1oZ8g8S.png" width="70%">
 </p>
+
 
 # 🌍 Welcome to The Country Catalogue!
 
