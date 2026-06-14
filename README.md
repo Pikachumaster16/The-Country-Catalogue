@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://i.imgur.com/8xgZk2H.png" width="80%">
+</p>
+
 # 🌍 Welcome to The Country Catalogue!
 
 Step into a world of discovery. The Country Catalogue is a colourful, beginner‑friendly website where you can explore continents, learn fun facts, and jump between pages as if you're travelling the globe. Whether you're curious about Africa, Asia, Europe, or anywhere else, this site gives you a simple and enjoyable way to explore the world.
