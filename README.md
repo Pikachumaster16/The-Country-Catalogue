@@ -7,7 +7,7 @@ This project was created as a learning journey in HTML, CSS, and building multi�
 
 ## 🌐 Visit the Website
 Come explore the world here:
-👉 **https://pikachumaster16.github.io/the-country-catalogue/**
+👉 **https://pikachumaster16.github.io/The-Country-Catalogue/**
 The site opens on the main homepage, where you can choose a continent and start your adventure.
 
 
