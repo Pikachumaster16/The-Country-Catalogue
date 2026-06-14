@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://i.imgur.com/0ZfQZ5M.png" width="80%">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/World_map_-_low_resolution.svg/1920px-World_map_-_low_resolution.svg.png" width="80%">
 </p>
-
-
 
 # 🌍 Welcome to The Country Catalogue!
 
